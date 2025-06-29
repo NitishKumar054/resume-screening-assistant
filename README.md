@@ -22,4 +22,16 @@ Click below to open the notebook in Colab:
 ## 📦 Installation
 ```bash
 pip install transformers pandas pdfplumber
+## 📂 Usage
+1. Upload resumes as PDFs or a CSV with a column named `resume_text`.
+2. The model will process and classify each resume.
+3. The results will be saved to a CSV and automatically downloaded.
+
+## 📄 Output
+- `classified_resumes.csv` for CSV input
+- `pdf_resume_classification.csv` for PDF input
+
+## 📃 License
+MIT License
+
 
