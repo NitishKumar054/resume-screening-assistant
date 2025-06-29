@@ -81,6 +81,9 @@ copies of the Software...
 ### 📤 Upload Prompt  
 ![Upload Prompt](screenshots/uploadprompt.png)
 
+### 📤 File Upload  
+![File Upload](screenshots/fileupload.png)
+
 ### 📈 Output CSV Preview  
 ![Output](screenshots/output_csv.png)
 
