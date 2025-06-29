@@ -33,5 +33,13 @@ pip install transformers pandas pdfplumber
 
 ## 📃 License
 MIT License
+## 📸 Screenshots
+
+### Upload Prompt
+![Upload Prompt](screenshots/uploadprompt.png)
+
+### Output
+![Output](screenshots/output_csv.png)
+
 
 
