@@ -1,2 +1,25 @@
-# resume-screening-assistant
-A tool to classify resumes using FLAN-T5 (Hugging Face)
+# Resume Screening Assistant
+
+This project uses FLAN-T5 (a Google transformer model) to automatically classify resumes into categories like Data Science, Human Resources, or Software Development.
+
+## 🚀 Features
+- Classifies resumes from PDF or CSV
+- Uses Natural Language Processing (NLP)
+- Built with Google Colab and Hugging Face Transformers
+
+## 🧪 Technologies Used
+- Python
+- Hugging Face Transformers
+- FLAN-T5
+- Pandas
+- PDFPlumber
+- Google Colab
+
+## ▶️ Run in Google Colab
+Click below to open the notebook in Colab:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vztbkO0Rp8EeNOFS7q59yxvk5nCFYeAe#scrollTo=Sy6zr79E_PwB&line=7&uniqifier=1)
+
+## 📦 Installation
+```bash
+pip install transformers pandas pdfplumber
+
